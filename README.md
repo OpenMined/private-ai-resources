@@ -18,6 +18,7 @@ This is a curated list of resources related to the research and development of p
 * [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
 * [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
 * [SEAL: Simiple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
+* [PySEAL: Python interface to SEAL](https://github.com/iamtrask/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib])
 
 # General Research
