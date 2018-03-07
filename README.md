@@ -3,12 +3,21 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
-- [General Research](#general-research)
 - [Libraries and Frameworks](#libraries-and-frameworks)
+- [General Research](#general-research)
+- [Blogs](#blogs)
 
 # About
 
 This is a curated list of resources related to the research and development of private machine learning.
+
+# Libraries and Frameworks
+
+* [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
+* [Multiparty computation with SPDZ and MASCOT offline phase](https://github.com/bristolcrypto/SPDZ-2)
+* [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
+* [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
+* [SEAL: Simiple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
 
 # General Research
 
@@ -27,10 +36,7 @@ This is a curated list of resources related to the research and development of p
 * [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
 * [Reading in the Dark: Classifying Encrypted Digits with Functional Encryption](https://eprint.iacr.org/2018/206)
 
-# Libraries and Frameworks
+# Blogs
 
-* [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
-* [Multiparty computation with SPDZ and MASCOT offline phase](https://github.com/bristolcrypto/SPDZ-2)
-* [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
-* [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
-* [SEAL: Simiple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
+* [https://mortendahl.github.io/]()
+* [https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/]()
