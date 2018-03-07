@@ -22,6 +22,7 @@ This is a curated list of resources related to the research and development of p
 
 # General Research
 
+* [Overdrive: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
 * [Privacy-Preserving Logistic Regression Training](https://eprint.iacr.org/2018/233)
 * [Between a Rock and a Hard Place: Interpolating Between MPC and FHE](https://eprint.iacr.org/2013/085.pdf)
 * [Privacy-Preserving Boosting with Random Linear Classifiers for Learning from User-Generated Data](https://arxiv.org/abs/1802.08288)
