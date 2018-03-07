@@ -42,5 +42,5 @@ This is a curated list of resources related to the research and development of p
 
 # Blogs
 
-* [https://mortendahl.github.io/]()
-* [https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/]()
+* <https://mortendahl.github.io/>
+* <https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/>
