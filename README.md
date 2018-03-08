@@ -16,11 +16,15 @@ This is a curated list of resources related to the research and development of p
 
 # Secure Deep Learning
 
-* [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+* [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
+* [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164)
+* [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)
 * [MiniONN: Oblivious Neural Network Predictions via MiniONN
 Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf)
-* [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164.pdf)
-* [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/pdf/1705.08963.pdf)
+* [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/abs/1705.08963)
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
+* [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+
 
 # Libraries and Frameworks
 
