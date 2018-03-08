@@ -3,7 +3,7 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
-- (
+- [Secure Deep Learning](#secure-deep-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
 - [Blogs](#blogs)
