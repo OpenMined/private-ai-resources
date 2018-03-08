@@ -8,6 +8,7 @@ Private machine learning progress
 - [General Research](#general-research)
 - [Blogs](#blogs)
 - [Groups](#groups)
+- [Thanks](#thanks)
 
 # About
 
@@ -59,3 +60,20 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 # Groups
 
 * [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/)
+
+# Thanks
+
+### Maintainers
+
+* [@gavinuhma](https://github.com/gavinuhma)
+* [@iamtrask](https://github.com/iamtrask)
+* [@robert-wagner](https://github.com/robert-wagner)
+* [@mortendahl](https://github.com/mortendahl)
+
+### OpenMined Community
+
+Thanks to members of the OpenMined community who have shared links on slack: [@morgangiraud](https://github.com/morgangiraud), [@jvmancuso](https://github.com/jvmancuso)
+
+### Adding links
+
+If you have any links to add please send a pull request, and we'll take a look. There is so much happening in this space!
