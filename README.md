@@ -3,6 +3,7 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
+- (
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
 - [Blogs](#blogs)
@@ -11,9 +12,17 @@ Private machine learning progress
 
 This is a curated list of resources related to the research and development of private machine learning.
 
+# Secure Deep Learning
+
+* [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+* [MiniONN: Oblivious Neural Network Predictions via MiniONN
+Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf)
+* [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164.pdf)
+* [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/pdf/1705.08963.pdf)
+
 # Libraries and Frameworks
 
-* [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
+[TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
 * [SPDZ-2: Multiparty computation with SPDZ and MASCOT offline phase](https://github.com/bristolcrypto/SPDZ-2)
 * [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
 * [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
