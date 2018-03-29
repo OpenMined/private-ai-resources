@@ -24,6 +24,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [DeepSecure: Scalable Provably-Secure Deep Learning, May 24, 2017](https://arxiv.org/abs/1705.08963)
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
 * [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
+* [Privacy-Preserving Deep Learning, October 12, 2015](https://dl.acm.org/citation.cfm?id=2813687)
 
 
 # Libraries and Frameworks
