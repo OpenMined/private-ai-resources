@@ -62,6 +62,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
+* [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
 
 # Groups
 
