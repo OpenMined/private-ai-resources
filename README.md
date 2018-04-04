@@ -31,6 +31,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 * [TinyGarble: Logic Synthesis and Sequential Descriptions for Yao's Garbled Circuits](https://github.com/esonghori/TinyGarble)
 * [SPDZ-2: Multiparty computation with SPDZ and MASCOT offline phase](https://github.com/bristolcrypto/SPDZ-2)
+* [ABY: A Framework for Efficient Mixed-Protocol Secure Two-Party Computation](https://github.com/encryptogroup/aby)
 * [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
 * [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
 * [SEAL: Simiple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
@@ -61,6 +62,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
+* [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
 
 # Groups
 
