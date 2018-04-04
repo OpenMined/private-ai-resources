@@ -56,6 +56,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
 * [Reading in the Dark: Classifying Encrypted Digits with Functional Encryption](https://eprint.iacr.org/2018/206)
 * [Stealing Hyperparameters in Machine Learning](https://arxiv.org/pdf/1802.05351.pdf)
+* [Unsupervised Cipher Cracking Using Discrete GANs](https://arxiv.org/pdf/1801.04883.pdf)
 
 # Blogs
 
