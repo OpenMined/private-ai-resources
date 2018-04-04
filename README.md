@@ -49,14 +49,14 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
 * [CryptoRec: Secure Recommendations as a Service](https://arxiv.org/pdf/1802.02432.pdf)
 * [Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/abs/1610.05755)
-* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
+* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
 * [Differentially Private Generative Adversarial Network](https://arxiv.org/abs/1802.06739)
 * [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
 * [ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data](https://eprint.iacr.org/2014/617.pdf)
 * [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908)
 * [Doing Real Work with FHE: The Case of Logistic Regression](https://eprint.iacr.org/2018/202)
 * [Reading in the Dark: Classifying Encrypted Digits with Functional Encryption](https://eprint.iacr.org/2018/206)
-* [Stealing Hyperparameters in Machine Learning](https://arxiv.org/pdf/1802.05351.pdf)
+* [Stealing Hyperparameters in Machine Learning](https://arxiv.org/abs/1802.05351)
 
 # Blogs
 
