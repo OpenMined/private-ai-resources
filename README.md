@@ -16,6 +16,7 @@ This is a curated list of resources related to the research and development of p
 
 # Secure Deep Learning
 
+* [SecureNN: Efficient and Private Neural Network Training, May 10,2018](https://eprint.iacr.org/2018/442.pdf)
 * [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
 * [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications, November 29, 2017](https://eprint.iacr.org/2017/1164)
 * [CryptoDL: Deep Neural Networks over Encrypted Data, November 14, 2017](https://arxiv.org/abs/1711.05189)
@@ -35,7 +36,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Obliv - C: C compiler for embedding privacy preserving protocols:](http://oblivc.org/)
 * [TFHE: Fast Fully Homomorphic Encryption Library over the Torus](https://github.com/tfhe/tfhe)
 * [SEAL: Simple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
-* [PySEAL: Python interface to SEAL](https://github.com/iamtrask/PySEAL)
+* [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib])
 
 # General Research
