@@ -1,4 +1,4 @@
-# awesome-ai-privacy
+# Private-Ai-Resources
 Private machine learning progress
 
 ## Content
