@@ -40,7 +40,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [SEAL: Simple Encypted Arithmatic Library](https://www.microsoft.com/en-us/research/project/simple-encrypted-arithmetic-library/)
 * [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib)
-* [nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph(https://github.com/NervanaSystems/he-transformer)
+* [nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph](https://github.com/NervanaSystems/he-transformer)
 
 
 # General Research
