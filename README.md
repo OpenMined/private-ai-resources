@@ -70,7 +70,6 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Protection Against Reconstruction and Its Applications in Private Federated Learning](https://arxiv.org/abs/1812.00984)
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Federated Learning of Deep Networks using Model Averaging](https://arxiv.org/abs/1602.05629)
-* [Scalable Private Learning with PATE](https://arxiv.org/abs/1802.08908)
 * [SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search](https://arxiv.org/abs/1904.02033)
 
 
@@ -83,6 +82,11 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 # Groups
 
 * [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/)
+
+# Podcasts
+
+* [TWiML: Differential Privacy Theory & Practice. Aaron Roth](https://twimlai.com/talk/132)
+* [TWiML: Scalable Differential Privacy for Deep Learning. Nicholas Papernot](https://twimlai.com/talk/134)
 
 # Workshops
 
