@@ -3,7 +3,7 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
-- [Secure and Private AI Course from Udacity](#Secure-and-Private-AI-Course-from-Udacity)
+- [Secure and Private AI Course from Udacity](#secure-and-private-ai-course)
 - [Secure Deep Learning](#secure-deep-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
