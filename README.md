@@ -3,6 +3,7 @@ Private machine learning progress
 
 ## Content
 - [About](#about)
+- [Secure and Private AI Course from Udacity](#secure-and-private-ai-course)
 - [Secure Deep Learning](#secure-deep-learning)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 - [General Research](#general-research)
@@ -13,6 +14,14 @@ Private machine learning progress
 # About
 
 This is a curated list of resources related to the research and development of private machine learning.
+
+# Secure and Private AI Course
+
+* [Secure and Private AI Course from Udacity](https://www.udacity.com/course/secure-and-private-ai--ud185)
+* [Notebooks for Secure and Private AI Course from Udacity](https://github.com/udacity/private-ai)
+* [Advanced PySyft](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+* [Advanced PyGrid](https://github.com/OpenMined/PyGrid/tree/dev/examples)
+
 
 # Secure Deep Learning
 
