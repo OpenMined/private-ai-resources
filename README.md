@@ -90,7 +90,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 # Groups
 
-* [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/)
+* [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis/)
 
 # Podcasts
 
