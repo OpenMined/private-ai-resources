@@ -100,6 +100,8 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 # Workshops
 
 * [Privacy Preserving Machine Learning NeurIPS 2018 Workshop](https://ppml-workshop.github.io/ppml/)
+* [Homomorphic Encryption Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRcWGoKPoxyxe4RwxXy84mgx)
+* [Private AI Bootcamp](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn)
 
 # Thanks
 
