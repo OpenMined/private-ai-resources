@@ -77,7 +77,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Personalized and Private Peer-to-Peer Machine Learning](http://proceedings.mlr.press/v84/bellet18a/bellet18a.pdf)
 * [A generic framework forprivacy preserving deep learning](https://arxiv.org/abs/1811.04017) 
 * [Protection Against Reconstruction and Its Applications in Private Federated Learning](https://arxiv.org/abs/1812.00984)
-* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
+* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)([Wolfgang Grieskamp](https://www.youtube.com/watch?v=_vAGhIS5Y_s))
 * [Federated Learning of Deep Networks using Model Averaging](https://arxiv.org/abs/1602.05629)
 * [SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search](https://arxiv.org/abs/1904.02033)
 
