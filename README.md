@@ -50,6 +50,8 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [PySEAL: Python interface to SEAL](https://github.com/Lab41/PySEAL)
 * [HElib: An Implementation of homomorphic encryption](https://github.com/shaih/HElib)
 * [nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph](https://github.com/NervanaSystems/he-transformer)
+* [Tensorflow Privacy: training machine learning models with differential privacy](hhttps://github.com/tensorflow/privacy)
+
 
 
 # General Research
@@ -80,6 +82,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Federated Learning of Deep Networks using Model Averaging](https://arxiv.org/abs/1602.05629)
 * [SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search](https://arxiv.org/abs/1904.02033)
+* [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
 
 
 # Blogs
@@ -87,6 +90,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
+* [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
 # Groups
 
