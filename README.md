@@ -26,6 +26,8 @@ This is a curated list of resources related to the research and development of p
 # Secure Deep Learning
 
 * [PySyft: A Generic Framework for Privacy Preserving Deep Learning](https://arxiv.org/abs/1811.04017)
+* [Differentially Private Mixed-Type Data Generation For Unsupervised Learning, December 6, 2019](https://arxiv.org/abs/1912.03250)
+* [A General Approach to Adding Differential Privacy to Iterative Training Procedures, Mar 4, 2019](https://arxiv.org/pdf/1812.06210.pdf)
 * [Private Deep Learning in TensorFlow Using Secure Computation, October 23, 2018](https://arxiv.org/abs/1810.08130)
 * [SecureNN: Efficient and Private Neural Network Training, May 10,2018](https://eprint.iacr.org/2018/442.pdf)
 * [Gazelle: A Low Latency Framework for Secure Neural Network Inference, January 16, 2018](https://arxiv.org/abs/1801.05507)
@@ -37,6 +39,8 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning, April 19, 2017](https://eprint.iacr.org/2017/396)
 * [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy, February 24, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf)
 * [Privacy-Preserving Deep Learning, October 12, 2015](https://dl.acm.org/citation.cfm?id=2813687)
+
+
 
 
 # Libraries and Frameworks
