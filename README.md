@@ -101,6 +101,11 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 * [Privacy Preserving Machine Learning NeurIPS 2018 Workshop](https://ppml-workshop.github.io/ppml/)
 
+# Books
+
+* [The Algorithmic Foundations of Differential Privacy](
+https://www.amazon.com/Algorithmic-Foundations-Differential-Theoretical-Computer/dp/1601988184/)
+
 # Thanks
 
 ### Maintainers
