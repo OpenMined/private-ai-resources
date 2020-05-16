@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+Warning, this repository will soon be deprecated in favor of [openmined-website](https://github.com/OpenMined/openmined-website).
+
 # Private-Ai-Resources
 Private machine learning progress
 
