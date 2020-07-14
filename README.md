@@ -58,6 +58,7 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 
 # General Research
 
+* [Differential Privacy - Cynthia Dwork](https://link.springer.com/chapter/10.1007/11787006_1)
 * [Overdrive: Making SPDZ Great Again](https://eprint.iacr.org/2017/1230)
 * [Privacy-Preserving Logistic Regression Training](https://eprint.iacr.org/2018/233)
 * [Between a Rock and a Hard Place: Interpolating Between MPC and FHE](https://eprint.iacr.org/2013/085.pdf)
@@ -84,6 +85,11 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Federated Learning of Deep Networks using Model Averaging](https://arxiv.org/abs/1602.05629)
 * [SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search](https://arxiv.org/abs/1904.02033)
+* [Privacy in Pharmacogenetics: An End-to-End Case
+  Study of Personalized Warfarin Dosing](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-fredrikson-privacy.pdf)
+* [Differentially Private Projected Histograms: Construction and Use for Prediction](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_2)
+* [Functional Mechanism: Regression Analysis under Differential Privacy](https://arxiv.org/abs/1208.0219)
+* [Practical Secure Aggregation for Federated Learning on User-Held Data](https://research.google/pubs/pub45808/)
 
 
 # Blogs
@@ -91,10 +97,12 @@ Transformations, November 3, 2017](https://acmccs.github.io/papers/p619-liuA.pdf
 * [Cryptography and Machine Learning: Mixing both for private data analysis](https://mortendahl.github.io/)
 * [Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)
 * [Awesome MPC: Curated List of resources for MPC](https://github.com/rdragos/awesome-mpc)
+* [A few thoughts on cryptographic engineering](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/)
 
 # Groups
 
 * [The Alan Turing Institute: Privacy-preserving data analysis](https://www.turing.ac.uk/research_projects/privacy-preserving-data-analysis/)
+* [Harvard University: Privacy Tools Project](https://privacytools.seas.harvard.edu/differential-privacy)
 
 # Podcasts
 
